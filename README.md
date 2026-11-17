@@ -80,7 +80,7 @@ Modern Network Intrusion Detection Systems (NIDS) frequently exhibit near-perfec
 
 ### 1. Clone & Install
 ```bash
-git clone https://github.com/pranay414/DeepShield-NIDS.git
+git clone https://github.com/ec24b1026/DeepShield-NIDS.git
 cd DeepShield-NIDS
 pip install -r requirements.txt
 ```
