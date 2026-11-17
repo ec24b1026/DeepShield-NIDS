@@ -5,9 +5,9 @@
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://deepshield-nids-pns.streamlit.app/)
 
 **Developed by Team PNS (IIITDM Kancheepuram):**
-- **P. Vinod**
-- **B. Pavan**
-- **B. Siddhartha**
+- **Pranay**
+- **Sravan**
+- **Nirupam**
 
 ---
 
@@ -94,7 +94,7 @@ Then navigate to `http://localhost:8501`.
 ---
 
 ## 👥 Authors (Team PNS)
-- **P. Vinod** - Model Architecture & Temporal Drift Research
-- **B. Pavan** - Feature Engineering & Pipeline Optimization
-- **B. Siddhartha** - Streamlit Dashboard & Evaluation Benchmarks
+- **Pranay** - Deep Learning Architecture & Temporal Drift Research
+- **Sravan** - Feature Engineering & Data Pipeline Optimization
+- **Nirupam** - Streamlit SOC Dashboard & Benchmark Evaluation
 - *Indian Institute of Information Technology, Design and Manufacturing (IIITDM), Kancheepuram*

@@ -1,6 +1,6 @@
 """
 DeepShield-NIDS: Real-Time Inference Engine
-Team PNS: P. Vinod, B. Pavan, B. Siddhartha (IIITDM Kancheepuram)
+Team PNS: Pranay, Sravan, Nirupam (IIITDM Kancheepuram)
 """
 
 import numpy as np

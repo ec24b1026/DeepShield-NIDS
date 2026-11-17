@@ -1,6 +1,6 @@
 """
 DeepShield-NIDS: Evaluation & Temporal Drift Benchmarking
-Team PNS: P. Vinod, B. Pavan, B. Siddhartha (IIITDM Kancheepuram)
+Team PNS: Pranay, Sravan, Nirupam (IIITDM Kancheepuram)
 
 Evaluates:
 1. In-Distribution Validation (Monday-Thursday traffic)

@@ -1,6 +1,6 @@
 """
 DeepShield-NIDS: Deep Learning Model Architectures
-Team PNS: P. Vinod, B. Pavan, B. Siddhartha (IIITDM Kancheepuram)
+Team PNS: Pranay, Sravan, Nirupam (IIITDM Kancheepuram)
 
 Contains:
 1. DeepAutoencoder: Latent space compression & reconstruction error for Zero-Day Anomaly Detection.

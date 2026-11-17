@@ -1,6 +1,6 @@
 """
 DeepShield-NIDS: Streamlit Deep Learning SOC Dashboard
-Team PNS: P. Vinod, B. Pavan, B. Siddhartha (IIITDM Kancheepuram)
+Team PNS: Pranay, Sravan, Nirupam (IIITDM Kancheepuram)
 """
 
 import streamlit as st
@@ -81,7 +81,7 @@ st.markdown("""
 # Sidebar
 st.sidebar.image("https://img.icons8.com/neon/96/shield.png", width=70)
 st.sidebar.title("🛡️ DeepShield-NIDS")
-st.sidebar.markdown("**Team PNS** • IIITDM Kancheepuram\n*P. Vinod, B. Pavan, B. Siddhartha*")
+st.sidebar.markdown("**Team PNS** • IIITDM Kancheepuram\n*Pranay, Sravan, Nirupam*")
 st.sidebar.markdown("---")
 
 nav = st.sidebar.radio(
@@ -314,9 +314,9 @@ elif nav == "📑 Research Documentation & Credits":
     st.markdown("<h1 class='main-header'>Project Documentation & Team Credits</h1>", unsafe_allow_html=True)
     st.markdown("""
     ### Team PNS
-    - **P. Vinod** (IIITDM Kancheepuram)
-    - **B. Pavan** (IIITDM Kancheepuram)
-    - **B. Siddhartha** (IIITDM Kancheepuram)
+    - **Pranay** (IIITDM Kancheepuram)
+    - **Sravan** (IIITDM Kancheepuram)
+    - **Nirupam** (IIITDM Kancheepuram)
     
     ---
     ### Project Overview

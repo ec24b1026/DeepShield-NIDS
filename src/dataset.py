@@ -1,6 +1,6 @@
 """
 DeepShield-NIDS: Feature Definitions & Dataset Engineering
-Team PNS: P. Vinod, B. Pavan, B. Siddhartha (IIITDM Kancheepuram)
+Team PNS: Pranay, Sravan, Nirupam (IIITDM Kancheepuram)
 
 Accurately models the Canadian Institute for Cybersecurity (CIC-IDS2017) continuous features
 excluding socket ports and IP identifiers to prevent data leakage.
